@@ -1,5 +1,5 @@
 # botdobryak
-Код дискорд бота BotDobryak на javascript.
+Код дискорд бота BotDobryak на javascript. (КОД ОЧЕНЪ ПЛОХОЙ!!!)
 
 ## Bot Config (botconfig.json)
 - Токен устанавливать в строчку `token`
