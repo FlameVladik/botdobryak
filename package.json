@@ -1,0 +1,34 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "async-youtube-video": "^1.0.3",
+    "clean": "^4.0.2",
+    "discord.js": "^11.5.1",
+    "discord.js-music-v11": "^1.3.4",
+    "discord.js-musicbot-addon": "^13.8.1",
+    "foreach": "^2.0.5",
+    "guild": "^1.2.2",
+    "hashmap": "^2.4.0",
+    "mathjs": "^6.6.4",
+    "opusscript": "0.0.7",
+    "params": "^0.1.1",
+    "prequest": "^1.0.0",
+    "request": "^2.88.2",
+    "superagent": "^5.2.2",
+    "vk-io": "^4.0.0-rc.30",
+    "vkbot": "0.0.4",
+    "webhook-discord": "^3.5.1",
+    "yt-search": "^0.4.1",
+    "ytdl": "^1.1.0",
+    "ytdl-core": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nubovik",
+  "license": "ISC",
+  "description": ""
+}
